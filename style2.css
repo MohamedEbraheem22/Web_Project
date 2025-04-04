@@ -32,9 +32,8 @@ header {
   margin-right: 10px;
 }
 .logo22 img {
-  width: 20%; /* حجم مناسب لأيقونة البحث */
+  width: 20%; 
   height: 20%;
-  /* vertical-align: middle; لتوسيط الأيقونة مع النص */
 }
 
 .header h1 {
